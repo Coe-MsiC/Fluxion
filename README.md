@@ -1,2 +1,11 @@
+Fluxion isn't fully complete yet
+---------------------------------------------------------------------------------------------------- 0% Complete
+
 # Fluxion
-A open source gaming Web browser made for you
+
+Fluxion is the next generation gaming browser made for Arch Linux
+
+# Supported Operating systems
+Arch: Officially Supported 
+Windows: Not Supported
+Other: Not Supported
